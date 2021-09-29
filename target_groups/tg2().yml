@@ -3,4 +3,4 @@ name: tg2()
 conditions:
   - operator: ne
     property: tg1
-    operand: '234'
+    operand: '235'
